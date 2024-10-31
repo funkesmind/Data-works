@@ -2,17 +2,7 @@ Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in data analysis, data visualization, and storytelling with data. Here, you'll find projects that demonstrate my ability to work with real-world datasets, extract insights, and create visualizations that effectively communicate findings.
 
-Table of Contents
 
-About Me
-
-Skills
-
-Projects
-
-Tools
-
-Contact
 
 
 About Me
@@ -34,7 +24,7 @@ Communication: Presenting findings effectively to both technical and non-technic
 Projects
 
 1. Project Title: Sales Analysis
-   Sales Analysis.pbix
+
 
 Description: Analyzed sales data to identify key trends, seasonal effects, and top-performing products.
 

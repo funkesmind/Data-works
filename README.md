@@ -42,16 +42,7 @@ Tools Used: SQL, Power BI
 Skills Demonstrated: Data wrangling, visualization, insights on sales performance, and reporting.
 
 
-2. Project Title: Customer Churn Analysis
-
-Description: Explored customer churn patterns to identify key factors influencing retention.
-
-Tools Used: PowerBi Excel
-
-Skills Demonstrated: Statistical analysis, data cleaning, customer segmentation, predictive modeling.
-
-
-3. Project Title: Financial Analysis
+2. Project Title: Financial Analysis
 
 Description: Analyzed financial data to track monthly performance, expenses, and profitability.
 

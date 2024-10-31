@@ -15,14 +15,7 @@ Tools Used: SQL, Power BI
 Skills Demonstrated: Data wrangling, visualization, insights on sales performance, and reporting.
 
 
-2. Project Title: Financial Analysis
-
-Description: Analyzed financial data to track monthly performance, expenses, and profitability.
-
-Tools Used: Excel, Power BI
-
-Skills Demonstrated: Budgeting, forecasting, trend analysis, dashboard creation.
-
+2. 
 
 Feel free to explore each project for a detailed overview, datasets, and code samples.
 

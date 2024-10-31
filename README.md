@@ -34,7 +34,7 @@ Communication: Presenting findings effectively to both technical and non-technic
 Projects
 
 1. Project Title: Sales Analysis
-f26336008c9bbaa382c324af9b912b91b0e5eec8
+   Sales Analysis.pbix
 
 Description: Analyzed sales data to identify key trends, seasonal effects, and top-performing products.
 

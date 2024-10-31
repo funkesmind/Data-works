@@ -1,24 +1,6 @@
 Data Analysis Portfolio
 
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in data analysis, data visualization, and storytelling with data. Here, you'll find projects that demonstrate my ability to work with real-world datasets, extract insights, and create visualizations that effectively communicate findings.
 
-
-
-
-About Me
-
-Hello! I'm an aspiring data analyst with a background in HR, project management, and digital marketing. With a strong foundation in data analysis and visualization tools like Excel, Power BI, Tableau, and SQL, I'm passionate about transforming raw data into meaningful insights that drive decision-making. I aim to bring my expertise in administration, data management, and reporting to new challenges in data analysis.
-
-Skills
-
-Data Analysis: Data cleaning, exploratory data analysis, statistical analysis
-
-Data Visualization: Creating insightful charts, dashboards, and reports to support data-driven decisions
-
-
-Business Insight Generation: Translating data insights into actionable recommendations
-
-Communication: Presenting findings effectively to both technical and non-technical stakeholders
 
 
 Projects

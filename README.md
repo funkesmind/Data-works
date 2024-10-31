@@ -5,15 +5,7 @@ Data Analysis Portfolio
 
 Projects
 
-1. Project Title: Sales Analysis
-
-
-Description: Analyzed sales data to identify key trends, seasonal effects, and top-performing products.
-
-Tools Used: SQL, Power BI
-
-Skills Demonstrated: Data wrangling, visualization, insights on sales performance, and reporting.
-
+1. 
 
 2. 
 
